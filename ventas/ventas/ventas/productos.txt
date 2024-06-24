@@ -1,0 +1,10 @@
+aa01,agenda,cristiana,100,44,15000
+aa02,agenda,pediatrica,80,25,10000
+aa03,agenda,letter,100,24,15000
+aa04,agenda,informatico,120,34,18000
+aa05,agenda,profesor,100,17,15000
+aa06,agenda,medico,100,30,15000
+aa07,agenda,secretaria,100,14,15000
+aa08,agenda,prenatal,80,10,10000
+aa09,agenda,escolar,70,24,12000
+aa10,agenda,ingeniero,150,25,15000
