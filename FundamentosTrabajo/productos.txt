@@ -1,0 +1,10 @@
+1001,agenda,cristiana,100,40,15000
+1002,agenda,pediatrica,80,25,10000
+1003,agenda,letter,100,24,15000
+1004,agenda,informatico,120,34,18000
+1005,agenda,profesor,100,17,15000
+1006,agenda,medico,100,30,15000
+1007,agenda,secretaria,100,14,15000
+1008,agenda,prenatal,80,10,10000
+1009,agenda,escolar,70,24,12000
+1010,agenda,ingeniero,150,25,15000
